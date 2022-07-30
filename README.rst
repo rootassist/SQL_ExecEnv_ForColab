@@ -16,6 +16,11 @@ Overview
 Description
 =====================
 
+データベースサーバーは以下の設定で起動します
+- Port:5432
+- ユーザ名:padwan
+- パスワード:padwan12345
+
 ---------------------
 'GitHub Repository' type ipynb:
 ---------------------
