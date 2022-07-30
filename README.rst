@@ -21,7 +21,9 @@ Description
 ---------------------
 
 https://raw.githubusercontent.com/rootassist/SQL_ExecEnv_ForColab/main/Pagila_Env_FromGitHub_ForColab.ipynb
+
 - データベース「pagila」を以下リポジトリにある「pagila-schema.sql」「pagila-data.sql」で構築します
+
  https://github.com/devrimgunduz/pagila
 
 ---------------------
@@ -29,8 +31,10 @@ https://raw.githubusercontent.com/rootassist/SQL_ExecEnv_ForColab/main/Pagila_En
 ---------------------
 
 https://raw.githubusercontent.com/rootassist/SQL_ExecEnv_ForColab/main/World_Env_FromGoogleDrive_ForColab.ipynb
+
 - データベース「world」をGoogle Driveの「マイドライブ」フォルダの下にある「DBSample」フォルダに置いた「world.sql」で構築します
 - 「world.sql」ファイルは以下のページからダウンロードできる「world-1.0.tar.gz」を展開したものです
+
  https://www.postgresql.org/ftp/projects/pgFoundry/dbsamples/world/world-1.0/
 
 =====================
