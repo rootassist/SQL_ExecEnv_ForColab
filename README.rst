@@ -10,7 +10,7 @@ Overview
 
 - SQLコマンドを実行できる環境をGoogle Colaboratoryに作ります
 - データベースサーバーはPostgreSQL13です
-- データベースを作成するために必要なファイルは「GitHubのリポジトリから得る」「Google Driveから得る」の2パターンを用意しました
+- データベースを構築するために必要なファイルは「GitHubのリポジトリから得る」「Google Driveから得る」の2タイプを用意しました
 
 =====================
 Description
@@ -41,7 +41,7 @@ https://raw.githubusercontent.com/rootassist/SQL_ExecEnv_ForColab/main/World_Env
 Usage
 =====================
 
-- 詳細な説明は note () に書いています。
+- 詳細な説明は note (https://note.com/nmt_rootassist/n/na8ace92f452c) に書いています。
 
 ---------------------
 'GitHub Repository' type
