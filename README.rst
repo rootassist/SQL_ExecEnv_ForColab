@@ -66,3 +66,5 @@ https://github.com/rootassist/SQL_ExecEnv_ForColab/blob/main/World_Env_FromGoogl
 2) ファイル上部の「Open in Colab」をクリックする
 
 3) 「環境構築用のセル」を実行する （準備のために時間がかかります）
+
+4) Google Driveへのアクセス権を求めてくるので許可する
