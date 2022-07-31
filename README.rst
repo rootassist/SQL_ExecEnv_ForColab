@@ -2,13 +2,13 @@
 Name
 =====================
 
-Google ColaboratoryでSQL演習環境を作る
+Google ColaboratoryでSQLの演習環境を作る
 
 =====================
 Overview
 =====================
 
-- SQLコマンドを実行できる環境をGoogle Colaboratoryに作ります
+- SQLを実行できる環境として、Google Colaboratoryで動作するNoteBookを提供します
 - データベースサーバーはPostgreSQL13です
 - データベースを構築するために必要なファイルは「GitHubのリポジトリから得る」「Google Driveから得る」の2タイプを用意しました
 
