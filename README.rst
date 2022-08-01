@@ -10,7 +10,7 @@ Overview
 
 - SQLを実行できる環境として、Google Colaboratoryで動作するNoteBookを提供します
 - データベースサーバーはPostgreSQL13です
-- データベースを構築するために必要なファイルは「GitHubのリポジトリから得る」「Google Driveから得る」の2タイプを用意しました
+- データベースを構築するために必要なファイルについては「GitHubのリポジトリから得る」「Google Driveから得る」の2タイプを用意しました
 
 =====================
 Description
