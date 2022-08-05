@@ -8,7 +8,7 @@ Google ColaboratoryでSQLの演習環境を作る
 Overview
 =====================
 
-- SQLを実行できる環境として、Google Colaboratoryで動作するNoteBookを提供します
+- SQLを実行できる環境として、Google Colaboratoryで動作するNoteBookを提供します。適宜カスタマイズしてご利用下さい
 - データベースサーバーはPostgreSQLとMySQLです
 - 以下の3種類のパターンを用意しています。適宜組み合わせてご利用下さい。
  1) PostgreSQL: データベースを構築に必要なファイルを「GitHubのリポジトリ」から得る
