@@ -10,6 +10,7 @@ Overview
 
 - SQLを実行できる環境として、Google Colaboratoryで動作するNoteBookを提供します
 - データベースサーバーはPostgreSQLとMySQLです
+
 - 以下の3種類のパターンを用意しています。適宜組み合わせてご利用下さい。
     1) PostgreSQL: データベースを構築に必要なファイルを「GitHubのリポジトリ」から得る
     2) PostgreSQL: データベースを構築に必要なファイルを「Google Drive」から得る
