@@ -64,14 +64,12 @@ Usage
 PostgreSQL 'GitHub Repository' type ipynb:
 https://github.com/rootassist/SQL_ExecEnv_ForColab/blob/main/Pagila_Env_FromGitHub_ForColab.ipynb
 
-PosgreSQL 'Google Drive' type ipynb
+PosgreSQL 'Google Drive' type ipynb:
 https://github.com/rootassist/SQL_ExecEnv_ForColab/blob/main/World_Env_FromGoogleDrive_ForColab.ipynb
 
-MySQL 'Site' type ipynb
+MySQL 'Site' type ipynb:
 https://github.com/rootassist/SQL_ExecEnv_ForColab/blob/main/Sakila_Env_FromGitHub_ForColab.ipynb
 
 2) ファイル上部の「Open in Colab」をクリックする
-
 3) 「環境構築用のセル」を実行する （準備のために時間がかかります）。
-
 4) Google Driveからダウンロードする場合には、Google Driveへのアクセス権を求めてくるので許可する。
