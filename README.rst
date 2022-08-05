@@ -62,7 +62,7 @@ Usage
 1) それぞれ該当するNoteBookのリンクをクリックする
 
  - PostgreSQL 'GitHub Repository' type ipynb:
- https://github.com/rootassist/SQL_ExecEnv_ForColab/blob/main/Pagila_Env_FromGitHub_ForColab.ipynb
+  https://github.com/rootassist/SQL_ExecEnv_ForColab/blob/main/Pagila_Env_FromGitHub_ForColab.ipynb
 
  - PosgreSQL 'Google Drive' type ipynb:
   https://github.com/rootassist/SQL_ExecEnv_ForColab/blob/main/World_Env_FromGoogleDrive_ForColab.ipynb
