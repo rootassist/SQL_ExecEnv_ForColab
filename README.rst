@@ -67,7 +67,7 @@ Usage
  - PosgreSQL 'Google Drive' type ipynb:
  https://github.com/rootassist/SQL_ExecEnv_ForColab/blob/main/World_Env_FromGoogleDrive_ForColab.ipynb
 
-- MySQL 'Site' type ipynb:
+ - MySQL 'Site' type ipynb:
  https://github.com/rootassist/SQL_ExecEnv_ForColab/blob/main/Sakila_Env_FromGitHub_ForColab.ipynb
 
 2) ファイル上部の「Open in Colab」をクリックする
