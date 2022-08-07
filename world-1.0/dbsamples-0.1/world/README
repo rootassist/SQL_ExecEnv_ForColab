@@ -10,4 +10,3 @@ better suit PostgreSQL.
 It is useful for comparison purposes and for learning how to execute simple
 queries and create simple tables, but is not particularly useful for exercising
 the advanced features of PostgreSQL or benchmarking.
-
